@@ -66,5 +66,3 @@ class TestAverageExamScore(TestCase):
         ]
 
         expected = 7.25
-
-        result
