@@ -37,3 +37,4 @@ def red_or_blue(num):
 
     if within_range(num, 2, 5) and num > 20:
         return 'Blue'
+
